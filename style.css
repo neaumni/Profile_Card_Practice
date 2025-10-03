@@ -1,0 +1,19 @@
+div
+{
+    width: 300px;
+    height: 400px;
+    padding-top: 10px;
+    border: 10px solid rgb(243, 192, 223);
+    margin: 100px auto;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgb(145, 47, 93);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+    h1{font-family:'Times New Roman', Times, serif;
+text-decoration: underline; text-decoration-color: rgb(233, 176, 214); text-shadow:#f897f3 0 0 4px; }
+
+    h4{font-family:'Times New Roman', Times, serif;
+text-decoration-line: underline ;text-decoration-color: rgb(228, 155, 228);}
+    img{width: 200px;
+height: 200px;}
